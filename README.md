@@ -1,6 +1,6 @@
 # jpa01-nzhang95120
 
-Deployed at: https://ucsb-cs156.github.io/f26/lab/jpa01.html
+Deployed at: https://jpa01-nzhang95120.dokku-10.cs.ucsb.edu
 
 
 # About this repo
